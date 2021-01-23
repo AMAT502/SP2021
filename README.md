@@ -20,7 +20,7 @@ The target audience for this class are data science masters students, with an un
 
 The lecture notebooks provide a self-contained reference for the course, but supplementing with additional reading from these sources may be helpful.
 
-  - **Introduction to Computation and Programming Using Python** by John V. Guttag, 2nd ed (and now in its 3rd edition)
+  - **Introduction to Computation and Programming Using Python** by John V. Guttag, 2nd ed (and [now in its 3rd edition](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition))
   - **Python Data Science Handbook** by Jake VanderPlas. You can [access this book for free on Github](https://github.com/jakevdp/PythonDataScienceHandbook)
   
 We will cover the first eight chapters of Guttag and some of the later chapters as well. Chapter 5 of VanderPlas will guide much of our machine learning material.
